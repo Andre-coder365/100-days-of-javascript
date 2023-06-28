@@ -1,0 +1,1 @@
+console.log("Hello, I am the JS File from the console.log")

@@ -1,0 +1,1 @@
+alert("I am the 2nd JS File")
